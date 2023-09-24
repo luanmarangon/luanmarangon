@@ -1,6 +1,6 @@
 <style>
     .{
-        background-color: #000;
+        background-color: 000;
     }
     .git {
         /* border: 1px solid #fff; */
