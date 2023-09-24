@@ -38,3 +38,5 @@ Fique à vontade para entrar em contato comigo para colaborações ou qualquer d
 ![luanmarangon's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luanmarangon&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ![luanmarangon's Streak](https://github-readme-streak-stats.herokuapp.com/?user=luanmarangon&theme=vue-dark&hide_border=true)
+
+![Snake animation](https://github.com/Pleiterson/Pleiterson/blob/output/github-contribution-grid-snake.svg)
