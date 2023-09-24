@@ -1,3 +1,17 @@
+<style>
+    .{
+        background-color: #000;
+    }
+    .git {
+        /* border: 1px solid #fff; */
+        display: flex;
+        justify-content: space-between;
+    }
+
+</style>
+
+
+
 # Olá, sou Luan Marangon 👋
 
 ## Sobre Mim
@@ -29,9 +43,11 @@ Fique à vontade para entrar em contato comigo para colaborações ou qualquer d
 <!-- ![Marangon GitHub stats](https://github-readme-stats.vercel.app/api?username=luanmarangon&show_icons=true&theme=vue-dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanmarangon&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=luanmarangon)](https://github.com/anuraghazra/github-readme-stats) -->
+<div class='git'>
 
 ![luanmarangon's Stats](https://github-readme-stats.vercel.app/api?username=luanmarangon&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ![luanmarangon's Streak](https://github-readme-streak-stats.herokuapp.com/?user=luanmarangon&theme=vue-dark&hide_border=true)
 
 ![luanmarangon's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luanmarangon&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+</div>
