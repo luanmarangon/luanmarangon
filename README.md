@@ -49,4 +49,4 @@ Fique à vontade para entrar em contato comigo para colaborações ou qualquer d
 
 ![Estatísticas](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=luanmarangon&theme=dracula)
 
-![Tempo Produtivo](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luanmarangon&theme=dracula&utcOffset={utcOffset})
+![Tempo Produtivo](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luanmarangon&theme=dracula&utcOffset=-3)
