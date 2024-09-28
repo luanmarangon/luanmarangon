@@ -44,3 +44,4 @@ Fique à vontade para entrar em contato comigo para colaborações ou qualquer d
 ![Detalhes do Perfil](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luanmarangon&theme=dracula)
 ![Linguagem Mais Usada](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luanmarangon&theme=dracula&exclude={exclude}) ![Repositórios por Linguagem](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luanmarangon&theme=dracula&exclude={exclude})
 ![Estatísticas](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=luanmarangon&theme=dracula) ![Tempo Produtivo](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luanmarangon&theme=dracula&utcOffset=-3)
+
